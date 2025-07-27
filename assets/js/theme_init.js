@@ -116,4 +116,7 @@ function moveIndicator(theme, animate) {
       }
     }
   });
-} 
+}
+
+// Make setTheme function globally available
+window.setTheme = setTheme; 
