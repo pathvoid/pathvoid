@@ -21,7 +21,7 @@ defmodule PathvoidWeb.ProjectsLive do
     ~H"""
     <div class="min-h-screen bg-base-100">
       <.navigation />
-      <main class="container mx-auto px-4 py-24">
+      <main class="container mx-auto px-4 py-8 md:py-24">
         <div class="max-w-4xl mx-auto space-y-16">
           <div class="text-center space-y-6">
             <h1 class="text-4xl font-bold">Projects</h1>
