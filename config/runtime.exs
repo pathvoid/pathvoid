@@ -38,6 +38,7 @@ if config_env() == :prod do
   # Production endpoint configuration
   config :pathvoid, PathvoidWeb.Endpoint,
     url: [host: host, port: 443, scheme: "https"],
+    check_origin: ["//pathvoid.com", "//www.pathvoid.com", "//localhost"],
     http: [
       ip: {0, 0, 0, 0},
       port: port
