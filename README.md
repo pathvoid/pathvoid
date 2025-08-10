@@ -1,32 +1,67 @@
-# Pathvoid - Personal Website
+# Pathvoid — Privacy-First Development
 
-This is the source code for my personal website. It showcases my ongoing and completed projects, centralizes the tools I use daily, and helps me stay organized across my personal and technical life.
+I create privacy-first applications and tools — either by finding trustworthy alternatives or building my own when none exist.  
+My projects range from fitness tracking platforms to media centers and personal infrastructure tools, all designed with user privacy and data ownership in mind.
 
-## Features
+**Website:** [pathvoid.com](https://pathvoid.com)  
+**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [Spectra](https://github.com/pathvoid/spectra) • [Pathvoid Website](https://github.com/pathvoid/pathvoid)
 
-- Project showcase with status indicators
-- Easy access to frequently used apps and tools
-- Simple and minimal design
+---
+
+## My Philosophy
+
+Technology should work *for* people, not against them.  
+That means:
+- **Privacy-first** — No unnecessary data collection or tracking
+- **Self-hosted options** — Giving users control over their data
+- **Sustainable development** — Using open-source technologies
+- **Cross-platform** — Making tools accessible everywhere
+
+---
+
+## Projects
+
+### **[NoBullFit](https://github.com/pathvoid/nobullfit)**
+A free platform to track food intake, nutrition, and fitness progress while keeping your data private.
+
+### **[Spectra](https://github.com/pathvoid/spectra)**
+A privacy-focused, cross-platform media center built with Electron.
+
+### **[Pathvoid Website](https://github.com/pathvoid/pathvoid)**
+My personal hub for showcasing projects, organizing tools, and experimenting with new ideas.
+
+---
 
 ## Tech Stack
 
+I adapt my stack to fit each project, but my core technologies include:
+
+### Languages
+- **Elixir** — Functional backend programming
+- **JavaScript (ES6+) / TypeScript** — Frontend & full-stack development
+
 ### Backend
-- **Elixir** - Functional programming language
-- **Phoenix Framework** - Web framework for Elixir
-- **Phoenix LiveView** - Real-time user interface updates
-- **Ecto** - Database wrapper and query builder
-- **PostgreSQL** - Primary database
+- **Phoenix Framework** — Web applications in Elixir
+- **Phoenix LiveView** — Real-time, server-rendered UI
+- **Ecto** — Database wrapper
+- **PostgreSQL** — Relational database
 
 ### Frontend
-- **Tailwind CSS** - Utility-first CSS framework
-- **DaisyUI** - Component library for Tailwind CSS
-- **Heroicons** - SVG icon library
-- **JavaScript (ES6+)** - Client-side functionality
+- **React** — Modern UI development
+- **Tailwind CSS** — Utility-first CSS framework
+- **DaisyUI** — Prebuilt Tailwind components
+- **Heroicons** — SVG icon set
 
-### Development & Build Tools
-- **esbuild** - JavaScript bundler
-- **Phoenix LiveReload** - Development hot reloading
+### Desktop Apps
+- **Electron** — Cross-platform desktop app development
+
+### Dev & Build Tools
+- **esbuild** — Fast JavaScript bundling
+- **Vite** — Modern frontend build tool
+- **Phoenix LiveReload** — Instant development feedback
+
+---
 
 ## License
 
-MIT — feel free to reuse or adapt.
+MIT — Feel free to use, adapt, and improve.
