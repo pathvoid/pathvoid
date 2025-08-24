@@ -54,6 +54,7 @@ I adapt my stack to fit each project, but my core technologies include:
 - **Tailwind CSS** — Utility-first CSS framework
 - **DaisyUI** — Prebuilt Tailwind components
 - **Heroicons** — SVG icon set
+- **Next.js** — Full-stack React framework (SSR, SSG, API routes)
 
 ### Desktop Apps
 - **Electron** — Cross-platform desktop app development
