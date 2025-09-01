@@ -23,6 +23,15 @@ defmodule PathvoidWeb.Router do
     live "/apps", AppsLive
   end
 
+  scope "/api", PathvoidWeb do
+    pipe_through :api
+
+    post "/venusflytraps/alerts", VenusflytrapController, :create_alert
+  end
+
+  # Serve the alerts log file
+  get "/venusflytrap_alerts.txt", PathvoidWeb.VenusflytrapController, :get_alerts_log
+
   if Application.compile_env(:pathvoid, :dev_routes) do
     import Phoenix.LiveDashboard.Router
 
