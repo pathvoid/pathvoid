@@ -4,7 +4,7 @@ I create privacy-first applications and tools — either by finding trustworthy 
 My projects range from fitness tracking platforms to media centers and personal infrastructure tools, all designed with user privacy and data ownership in mind.
 
 **Website:** [pathvoid.com](https://pathvoid.com)  
-**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [Spectra](https://github.com/pathvoid/spectra) • [Pathvoid Website](https://github.com/pathvoid/pathvoid) • [Askform](https://github.com/pathvoid/askform)
+**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [NoBullFit App](https://github.com/pathvoid/nobullfit-app) • [Spectra](https://github.com/pathvoid/spectra) • [Personal Website](https://github.com/pathvoid/pathvoid)
 
 ---
 
@@ -24,14 +24,15 @@ That means:
 ### **[NoBullFit](https://github.com/pathvoid/nobullfit)**
 A free platform to track food intake, nutrition, and fitness progress while keeping your data private.
 
+### **[NoBullFit App](https://github.com/pathvoid/nobullfit-app)**
+The companion application for NoBullFit, built with Tauri for lightweight and privacy-first usage.
+
 ### **[Spectra](https://github.com/pathvoid/spectra)**
-A privacy-focused, cross-platform media center built with Electron.
+A privacy-focused media center built with Electron.  
+*Currently not my main focus, but still an important part of my long-term vision.*
 
-### **[Pathvoid Website](https://github.com/pathvoid/pathvoid)**
+### **[Personal Website](https://github.com/pathvoid/pathvoid)**
 My personal hub for showcasing projects, organizing tools, and experimenting with new ideas.
-
-### **[Askform](https://github.com/pathvoid/askform)**
-Privacy-first alternative to Google Forms, built with Next.js.
 
 ---
 
@@ -42,6 +43,7 @@ I adapt my stack to fit each project, but my core technologies include:
 ### Languages
 - **Elixir** — Functional backend programming
 - **JavaScript (ES6+) / TypeScript** — Frontend & full-stack development
+- **Rust** — System-level programming (used with Tauri)
 
 ### Backend
 - **Phoenix Framework** — Web applications in Elixir
@@ -56,8 +58,9 @@ I adapt my stack to fit each project, but my core technologies include:
 - **Heroicons** — SVG icon set
 - **Next.js** — Full-stack React framework (SSR, SSG, API routes)
 
-### Desktop Apps
-- **Electron** — Cross-platform desktop app development
+### Applications
+- **Tauri** — Lightweight app framework (Rust + Web stack)
+- **Electron** — Cross-platform application development
 
 ### Dev & Build Tools
 - **esbuild** — Fast JavaScript bundling
