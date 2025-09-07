@@ -22,6 +22,7 @@ defmodule PathvoidWeb.Components.Navigation do
                   <li><a href="/" class="btn btn-ghost btn-sm">Home</a></li>
                   <li><a href="/apps" class="btn btn-ghost btn-sm">Apps</a></li>
                   <li><a href="/projects" class="btn btn-ghost btn-sm">Projects</a></li>
+                  <li><a href="/resume" class="btn btn-ghost btn-sm">Resume</a></li>
                   <li><a href="/about" class="btn btn-ghost btn-sm">About</a></li>
                 </ul>
               </div>
@@ -43,6 +44,7 @@ defmodule PathvoidWeb.Components.Navigation do
               <li><a href="/" class="text-lg">Home</a></li>
               <li><a href="/apps" class="text-lg">Apps</a></li>
               <li><a href="/projects" class="text-lg">Projects</a></li>
+              <li><a href="/resume" class="text-lg">Resume</a></li>
               <li><a href="/about" class="text-lg">About</a></li>
               <li class="menu-title mt-8">
                 <span>Theme</span>
@@ -65,6 +67,7 @@ defmodule PathvoidWeb.Components.Navigation do
               <li><a href="/" class="btn btn-ghost btn-sm">Home</a></li>
               <li><a href="/apps" class="btn btn-ghost btn-sm">Apps</a></li>
               <li><a href="/projects" class="btn btn-ghost btn-sm">Projects</a></li>
+              <li><a href="/resume" class="btn btn-ghost btn-sm">Resume</a></li>
               <li><a href="/about" class="btn btn-ghost btn-sm">About</a></li>
             </ul>
           </div>

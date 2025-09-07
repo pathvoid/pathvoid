@@ -20,6 +20,7 @@ defmodule PathvoidWeb.Router do
     live "/", HomeLive
     live "/about", AboutLive
     live "/projects", ProjectsLive
+    live "/resume", ResumeLive
     live "/apps", AppsLive
   end
 
