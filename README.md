@@ -27,10 +27,6 @@ A free platform to track food intake, nutrition, and fitness progress while keep
 ### **[NoBullFit App](https://github.com/pathvoid/nobullfit-app)**
 The companion application for NoBullFit, built with Tauri for lightweight and privacy-first usage.
 
-### **[Spectra](https://github.com/pathvoid/spectra)**
-A privacy-focused media center built with Electron.  
-*Currently not my main focus, but still an important part of my long-term vision.*
-
 ### **[Personal Website](https://github.com/pathvoid/pathvoid)**
 My personal hub for showcasing projects, organizing tools, and experimenting with new ideas.
 
