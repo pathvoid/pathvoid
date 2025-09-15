@@ -4,7 +4,7 @@ I create privacy-first applications and tools — either by finding trustworthy 
 My projects range from fitness tracking platforms to media centers and personal infrastructure tools, all designed with user privacy and data ownership in mind.
 
 **Website:** [pathvoid.com](https://pathvoid.com)  
-**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [NoBullFit App](https://github.com/pathvoid/nobullfit-app) • [Spectra](https://github.com/pathvoid/spectra) • [Personal Website](https://github.com/pathvoid/pathvoid)
+**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [NoBullFit App](https://github.com/pathvoid/nobullfit-app) • [Pathvoid](https://github.com/pathvoid/pathvoid)
 
 ---
 
@@ -27,7 +27,7 @@ A free platform to track food intake, nutrition, and fitness progress while keep
 ### **[NoBullFit App](https://github.com/pathvoid/nobullfit-app)**
 The companion application for NoBullFit, built with Tauri for lightweight and privacy-first usage.
 
-### **[Personal Website](https://github.com/pathvoid/pathvoid)**
+### **[Pathvoid](https://github.com/pathvoid/pathvoid)**
 My personal hub for showcasing projects, organizing tools, and experimenting with new ideas.
 
 ---
