@@ -4,7 +4,7 @@ I create privacy-first applications and tools — either by finding trustworthy 
 My projects range from fitness tracking platforms to media centers and personal infrastructure tools, all designed with user privacy and data ownership in mind.
 
 **Website:** [pathvoid.com](https://pathvoid.com)  
-**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [NoBullFit App](https://github.com/pathvoid/nobullfit-app) • [Pathvoid](https://github.com/pathvoid/pathvoid)
+**GitHub Projects:** [NoBullFit](https://github.com/pathvoid/nobullfit) • [NoBullFit App](https://github.com/pathvoid/nobullfit-app) • [Scheduler](https://github.com/pathvoid/scheduler) • [Pathvoid](https://github.com/pathvoid/pathvoid)
 
 ---
 
@@ -27,6 +27,9 @@ A free platform to track food intake, nutrition, and fitness progress while keep
 ### **[NoBullFit App](https://github.com/pathvoid/nobullfit-app)**
 The companion application for NoBullFit, built with Tauri for lightweight and privacy-first usage.
 
+### **[Scheduler](https://github.com/pathvoid/scheduler)**
+A work schedule optimization application built with Java 21, Spring Boot, and OptaPlanner. Generates optimal employee schedules while respecting constraints like skills, availability, and vacation days.
+
 ### **[Pathvoid](https://github.com/pathvoid/pathvoid)**
 My personal hub for showcasing projects, organizing tools, and experimenting with new ideas.
 
@@ -38,12 +41,15 @@ I adapt my stack to fit each project, but my core technologies include:
 
 ### Languages
 - **Elixir** — Functional backend programming
+- **Java** — Enterprise applications and optimization (Java 21)
 - **JavaScript (ES6+) / TypeScript** — Frontend & full-stack development
 - **Rust** — System-level programming (used with Tauri)
 
 ### Backend
 - **Phoenix Framework** — Web applications in Elixir
 - **Phoenix LiveView** — Real-time, server-rendered UI
+- **Spring Boot** — Enterprise Java applications and REST APIs
+- **OptaPlanner** — Constraint satisfaction and optimization
 - **Ecto** — Database wrapper
 - **PostgreSQL** — Relational database
 
@@ -59,6 +65,7 @@ I adapt my stack to fit each project, but my core technologies include:
 - **Electron** — Cross-platform application development
 
 ### Dev & Build Tools
+- **Maven** — Java project management and build automation
 - **esbuild** — Fast JavaScript bundling
 - **Vite** — Modern frontend build tool
 - **Phoenix LiveReload** — Instant development feedback
