@@ -3,7 +3,7 @@
 **Privacy isn’t a feature. It’s a foundation.**
 
 I design and build reliable, privacy-first systems with a strong focus on clarity, automation, and long-term maintainability.  
-My work sits at the intersection of **software engineering**, **data integrity**, and **AI-assisted automation**, with a strong emphasis on user trust and platform safety.
+My work sits at the intersection of **software engineering**, **data integrity**, and **domain-specific AI**, with a strong emphasis on user trust, platform safety, and long-term system health.
 
 I believe good systems should be:
 - Transparent by design  
@@ -55,6 +55,29 @@ To support platform quality and safety, NoBullFit includes a dedicated **AI back
 
 ---
 
+## Domain-Specific AI — NoBullFit AI
+
+**NoBullFit AI** is a custom-trained language model specialized in fitness, health, nutrition, and mathematical conversions.
+
+Unlike general-purpose models, it is trained **from scratch** on domain-specific data, with fully automated data collection and resumable training.
+
+- AI repository:  
+  https://github.com/pathvoid/nobullfit-ai  
+
+**Key characteristics**
+- GPT-2–based transformer architecture
+- Automated web data collection and synthetic data generation
+- Domain-specific training for fitness, health, and nutrition use cases
+- Built-in checkpointing with pause and resume support
+- Local training with no dependency on external cloud services
+
+**Purpose**
+- Provide accurate, context-aware responses within the NoBullFit ecosystem
+- Reduce reliance on generic AI models
+- Maintain privacy and control over the full AI training lifecycle
+
+---
+
 ## Core Principles
 
 **Privacy-first, always**  
@@ -75,17 +98,18 @@ I build tools meant to be maintained, audited, and trusted over time.
 
 - Backend & APIs (TypeScript, Python, PostgreSQL)
 - Background workers & automation pipelines
-- AI integration (content analysis, moderation, verification)
-- Data integrity & lifecycle management
-- Platform safety and trust mechanisms
+- Domain-specific AI and custom model training
+- Content moderation and platform safety systems
+- Data integrity, lifecycle management, and auditability
 - Clean system boundaries and responsibility separation
 
 ---
 
 ## Current Direction
 
-- Expanding AI-assisted verification capabilities
-- Strengthening platform observability and safety tooling
+- Expanding domain-specific AI capabilities within NoBullFit
+- Strengthening automated verification and safety tooling
+- Improving long-term maintainability and observability
 - Building sustainable, self-hostable, privacy-respecting systems
 - Applying these principles across health, productivity, and internal tooling
 
